@@ -1,1 +1,3 @@
-# Rock-vs-Mine-Prediction
+This is a rock vs mine predection 
+<br>
+This is Ml project
